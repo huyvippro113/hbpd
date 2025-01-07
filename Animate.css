@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<div class="container animate__animated animate__fadeInDown">
+    <h1>🎉 Happy Birthday to Me! 🎂</h1>
+    <img src="birthday.jpg" alt="Happy Birthday" class="birthday-image animate__animated animate__bounceIn">
+    <p>Today is a special day, and I'm here to celebrate it with this webpage!</p>
+    <button id="surpriseButton" class="animate__animated animate__pulse animate__infinite">Click for a Surprise!</button>
+    <div id="surpriseMessage" class="hidden animate__animated animate__fadeIn">
+        <p>🎈 Thank you for visiting! Here's to another year of awesomeness! 🎁</p>
+    </div>
+</div>
